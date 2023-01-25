@@ -1,6 +1,6 @@
 # Entendendo métodos Java
 
-# Criação de métodos:
+## Criação de métodos:
 
 Método é uma porção de código (sub-rotina) que é disponibilizada por uma classe. Este é executado quando é feita uma requisição a ele. São responsáveis por definir e realizar um determinado comportamento.
 
@@ -24,7 +24,7 @@ onde:
 - **Código** — que possui ou vazio
 
 **Exemplos:**
-
+```
 public String getNome(){…}
 
 public double calcularTotalNota(){…}
@@ -36,6 +36,7 @@ pubblic abstract void executar();
 public void alterarFabricante(Fabricante fabricante){…}
 
 public Relatorio gerarDadosAnaliticos(Cliente cliente){…}
+```
 
 ### Utilização:
 
