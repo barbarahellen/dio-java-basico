@@ -34,7 +34,7 @@ public class MyClass {
 	}
 	
 	public double dividir(int dividendo, int divisor) throws Exception{
-		// indica que o método a aser utilizado poderá gerar uma exceção
+		// indica que o método a ser utilizado poderá gerar uma exceção
 	}
 }
 ```
